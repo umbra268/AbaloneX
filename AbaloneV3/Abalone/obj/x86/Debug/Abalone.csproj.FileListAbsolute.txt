@@ -1,0 +1,7 @@
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\x86\Debug\Abalone.exe
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\x86\Debug\Abalone.pdb
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\x86\Debug\Abalone.exe
+c:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\x86\Debug\Abalone.pdb
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\x86\Debug\Content\sphere.xnb

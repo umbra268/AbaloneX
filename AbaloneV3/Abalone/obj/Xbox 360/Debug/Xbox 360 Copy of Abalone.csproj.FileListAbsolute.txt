@@ -1,0 +1,7 @@
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\Xbox 360\Debug\Content\sphere.xnb
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\Xbox 360\Debug\Abalone.exe
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\bin\Xbox 360\Debug\Abalone.pdb
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\Xbox 360\Debug\Abalone.exe
+C:\Documents and Settings\Zach\My Documents\Visual Studio 2010\Projects\AbaloneV3\Abalone\Abalone\obj\Xbox 360\Debug\Abalone.pdb
