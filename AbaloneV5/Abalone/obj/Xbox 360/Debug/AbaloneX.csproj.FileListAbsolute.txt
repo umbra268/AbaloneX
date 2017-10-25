@@ -1,9 +1,0 @@
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\bin\Xbox 360\Debug\Content\Splash.xnb
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\bin\Xbox 360\Debug\Abalone.exe
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\bin\Xbox 360\Debug\Abalone.pdb
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\bin\Xbox 360\Debug\Nuclex.Fonts.dll
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\bin\Xbox 360\Debug\Nuclex.Graphics.dll
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\obj\Xbox 360\Debug\Abalone.exe
-c:\documents and settings\zach\my documents\visual studio 2010\Projects\AbaloneV5\Abalone\Abalone\obj\Xbox 360\Debug\Abalone.pdb

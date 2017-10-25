@@ -1,3 +1,0 @@
-Content\Font.xnb
-Content\FontSmall.xnb
-Content\sphere.xnb
